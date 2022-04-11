@@ -1,6 +1,8 @@
-## Ph.D. candidate, South Korea.
-### Expertise : stress and depression detection using passive sensing.
-
+# Kobiljon
+### Ph.D. candidate, South Korea.
+#### Expertise : stress and depression detection using passive sensing.
+<br>
+<br>
 - <i>ML/DL</i> : TF.Keras, Jupyter Notebook, Biomedical use-cases (e.g. stress, depression)
 - <i>Wearable apps</i> : Tizen, WatchOS, WearOS
 - <i>Mobile</i> : Ionic/Typescript, Android Native, Flutter
