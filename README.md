@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**qobiljon/qobiljon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Kobiljon Toshnazarov
 
-Here are some ideas to get you started:
+### Programming languages (frameworks) and tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python, Java, C++
+- Django (DRF), GraphQL, Spring
+- Cassandra, PostgreSQL, DynamoDB
+- Docker, Kubernetes, Nginx
+- AWS, Naver Cloud, GCP
+- Unittest, Pytest, Celery, GraphQL, , CI/CD, Jupyter Notebooks
+
+--------------------------------------------------------------------------
+### Watch me code and enjoy:
+
+[linkedin]: https://linkedin.com/in/qobiljon
+
+<br/>
+<br/>
+
+![Status](https://github-readme-streak-stats.herokuapp.com/?user=qobiljon&theme=tokyonight)
+### Happy Coding
