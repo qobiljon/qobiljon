@@ -1,3 +1,6 @@
+## Ph.D. candidate, South Korea.
+
+- ML/DL : TF.Keras, Jupyter Notebook, Biomedical use-cases (e.g. stress, depression)
 - Wearable apps : Tizen, WatchOS, WearOS
 - Mobile : Ionic/Typescript, Android Native, Flutter
 - Web : Django (DRF), GraphQL, Spring
