@@ -2,6 +2,7 @@
 ### Ph.D. candidate, South Korea.
 #### Expertise : stress and depression detection using passive sensing.
 <br>
+Tech stack<br>
 - <i>ML/DL</i> : TF.Keras, Jupyter Notebook, Biomedical use-cases (e.g. stress, depression) <br>
 - <i>Wearable apps</i> : Tizen, WatchOS, WearOS <br>
 - <i>Mobile</i> : Ionic/Typescript, Android Native, Flutter <br>
