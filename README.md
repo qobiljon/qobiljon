@@ -4,3 +4,5 @@
 | Education | Ph.D. in 한국에너지공과대학교 | 🎓 |
 | Research area | Stress and Depression detection with wearables (e.g. smartwatches) | 😟 ⚡ ⌚ |
 | Languages | Python, Java; English, Russian, Uzbek | 🐍 ☕ 🇺🇸 🇷🇺 🇺🇿 |
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=qobiljon)](https://git.io/streak-stats)
