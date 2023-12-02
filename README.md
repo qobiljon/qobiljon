@@ -1,6 +1,7 @@
 | Key | Value |
 | --- | --- |
-| Hobbies | Long distance running 🏃‍♂️ and cycling 🚴 ([strava profile](https://www.strava.com/athletes/qobiljon)); Algorithms 📐 ([leetcode profile](https://leetcode.com/kevv96)) |
-| Education | Ph.D. Candidate at 한국에너지공과대학교 🎓; See on [Intelligent Mobile Computing Lab](https://imc.kentech.ac.kr/composition/) |
-| Area of expertise | Stress detection in the wild (mHealth) 🧠🫀; See more on [Google Scholar](https://scholar.google.com/citations?user=CQp5uugAAAAJ&hl=en&oi=ao) |
-| Languages | Python 🐍; English 🇺🇸 |
+| Education | Ph.D. candidate at KENTECH ([imclab/members](https://imc.kentech.ac.kr/composition/)) |
+| Tech stack | • Python🐍 expert <br> • Kotlin/Java☕ expert <br> • Data Science📊📈👨🏻‍💻✨ (DSP, ML, DL, Big Data Analysis) expert <br> • Django full stack🌐 sw engineer <br> • Android + WearOS app📱⌚ sw engineer |
+| Languages | 1. English🇺🇸 <br> 2. Korean🇰🇷 <br> 3. Russian🇷🇺 <br> 4. Uzbek🇺🇿 <br> 5. Arabic🇸🇦 (learning) |
+| Research expertise areas | • Stress⚡ detection research in real-life scenarios <br> • Large-scale general-purpose data collection platform📊 development <br> • Mobile- and wearable-based mHealth application📱🩺💊 development <br> • More research topics on my [Google scholar page](https://scholar.google.com/citations?user=CQp5uugAAAAJ&hl=en&oi=ao) |
+| Hobbies | • Marathon running ([strava/qobiljon](https://www.strava.com/athletes/qobiljon)) 🏃‍♂️ <br> • Long distance cycling 🚴 <br> • Data structure & algorithms 📐 ([leetcode/qobiljonn](https://leetcode.com/qobiljonn/)) |
