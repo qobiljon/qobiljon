@@ -9,6 +9,6 @@ My hobbies are long-distance running and cycling (see [Strava profile](https://w
 I also do problem solving from time to time (see [Leetcode profile](https://leetcode.com/qobiljonn/)).
 
 Freelancing? Yes!<br>
-If you have an interesting software development project and I somehow got your attention, please kindly email me at [qobiljon@kentech.ac.kr](mailto:qobiljon@kentech.ac.kr).
+If you have an interesting software development project and I somehow got your attention, please kindly email me at [kobiljon.toshnazarov@toptal.com](mailto:kobiljon.toshnazarov@toptal.com).
 
 Nice to meet you, and let's talk!
