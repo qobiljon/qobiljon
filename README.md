@@ -8,7 +8,7 @@ I can communicate in English on an academic level, and I can freely talk in Kore
 My hobbies are long-distance running and cycling (see [Strava profile](https://www.strava.com/athletes/qobiljon)).<br>
 I also do problem solving from time to time (see [Leetcode profile](https://leetcode.com/qobiljonn/)).
 
-Freelancing? Yes!<br>
-If you have an interesting software development project and I somehow got your attention, please kindly email me at [kobiljon.toshnazarov@toptal.com](mailto:kobiljon.toshnazarov@toptal.com).
+I also actively do freelancing work.<br>
+If you have an interesting thing to do and I got your attention, then you can contact me at [kobiljon.toshnazarov@toptal.com](mailto:kobiljon.toshnazarov@toptal.com).
 
 Nice to meet you, and let's talk!
